@@ -1,8 +1,8 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a67XH0QN--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/xndmxrfhliweofif9jty.png)](https://thejaaswiini.io)
+
 <h1 align="center">Hi 👋, I'm Thejaaswiini</h1>
 <h3 align="center">A passionate frontend developer from Coimbatore, India</h3>
-(img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQEN52e0m2hDUQ/article-cover_image-shrink_600_2000/0/1684934320869?e=2147483647&v=beta&t=S_VWXWJVL2e4xW5GWoPTFULYxqjMlteHZfm-cu3tCy4")
 
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/9xBkeTB5XY1ahOqgMW/giphy.gif?cid=ecf05e47a4n08cec7x2ijkqniygn77svtfzovo6h2usqyy70&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently learning **HTML,CSS, Javascript**
 
